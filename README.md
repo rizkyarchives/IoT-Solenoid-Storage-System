@@ -14,10 +14,13 @@ This project also uses two microcontrollers, which are ESP32 and Arduino UNO R3,
 * Breadboard (Optional)
 
 ## Schematics
-
+![alt text](https://github.com/rizkyarchives/IoT-Solenoid-Storage-System/blob/main/Schematic.png]
 
 ## Output
 This is a video that will demonstrate + explain this project:
+[Youtube Link](https://youtu.be/PwoyQAp0ZNM)
+Image:
+![alt text](https://github.com/rizkyarchives/IoT-Solenoid-Storage-System/blob/main/Final%20Product.jpg)
 
 ## License
-This project is licensed under MIT License.
+This project is licensed under [MIT License](https://github.com/rizkyarchives/IoT-Solenoid-Storage-System/blob/main/LICENSE).
