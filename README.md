@@ -14,7 +14,7 @@ This project also uses two microcontrollers, which are ESP32 and Arduino UNO R3,
 * Breadboard (Optional)
 
 ## Schematics
-![alt text](https://github.com/rizkyarchives/IoT-Solenoid-Storage-System/blob/main/Schematic.png]
+![alt text](https://github.com/rizkyarchives/IoT-Solenoid-Storage-System/blob/main/Schematic.png)
 
 ## Output
 This is a video that will demonstrate + explain this project:
